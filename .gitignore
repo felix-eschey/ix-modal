@@ -1,0 +1,27 @@
+# Compiled output
+/dist
+/tmp
+/out-tsc
+
+# Dependencies
+/node_modules
+
+# Angular / Vite cache
+/.angular
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+
+# Playwright
+/test-results
+/playwright-report
+
+# System files
+.DS_Store
+Thumbs.db
